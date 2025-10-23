@@ -36,5 +36,5 @@ concepts.
 ## How to Run
 1. Clone or download the repository:
  ```bash
- git clone https://github.com/<YourGitHubUsername>/ICS-Quadratic-Grader-
-<YourSurname-YourFirstname>.git
+ git clone https://github.com/<Patience-Tembo>/ICS-Quadratic-Grader-
+<Tembo-Patience>.git
